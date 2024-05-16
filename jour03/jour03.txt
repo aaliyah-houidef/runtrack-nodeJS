@@ -1,0 +1,9 @@
+JOB01:Instalation
+JOB02:Résultat show dbs
+JOB03:Base de données nommée shop + collection nommée product;renvoie dans le terminal ok
+JOB04:Ajouts des docs à la collection product
+JOB05:Insérez différentes catégories en une seule ligne de commande;renvoie dans le terminal ok
+JOB06:Afficher l'ensemble des collections;renvoie dans le terminal ok
+JOB07:Récupérez l’ensemble des données de la collection “category”;renvoie dans le terminal ok
+JOB08:Écrire une requête permettant d’afficher seulement deux catégories ok
+JOB09:Écrire une requête permettant de récupérer l’ensemble des produits classés par prix croissant ok
